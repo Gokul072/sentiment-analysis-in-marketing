@@ -1,17 +1,5 @@
 # sentiment-analysis-in-marketing
 
-Topic: sentiment analysis in marketing
-
-
-Sentiment Analysis in Marketing
-
-Default (GPT-3.5)
-
-User
-Create abstract for sentiment analysis in marketing
-
-ChatGPT
-Title: Sentiment Analysis in Marketing: Harnessing Consumer Emotions for Strategic Insights
 
 Abstract:
 
